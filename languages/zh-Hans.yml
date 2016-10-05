@@ -33,8 +33,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+  powered: "由 percy 先生维护制作"
+  theme: 关于
 
 
 counter:

@@ -9,12 +9,12 @@
 </div>
 
 <div class="powered-by">
-  {{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}
+  {{ __('footer.powered', '<a class="theme-link" href="https://percychen.com">percy</a>') }}
 </div>
 
 <div class="theme-info">
   {{ __('footer.theme') }} -
-  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-    NexT.{{ theme.scheme }}
+  <a class="theme-link" href="http://percychen.com">
+    percy先生
   </a>
 </div>
